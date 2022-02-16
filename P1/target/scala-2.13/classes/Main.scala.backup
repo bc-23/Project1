@@ -1,0 +1,20 @@
+import scala.io.StdIn.readInt
+import scala.io.Source
+
+//READ in an array
+//object Main {
+//  def main(args: Array[String]): Unit = {
+//    def readCSVLIne(src: Source): Array[String] = {
+//
+//
+//      val source = Source.fromFile("kv1.txt")
+//          val str ="123a"
+//          val num = try {
+//            str.toInt
+//          } catch {
+//           case ex: NumberFormatException => 0
+//          }
+//    }
+//  }
+}
+
